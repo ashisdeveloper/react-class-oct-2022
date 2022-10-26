@@ -1,4 +1,7 @@
 p {
 	font-size: 16px;
-    /* background-color: blueviolet; */
+	/* background-color: blueviolet; */
+}
+.box-content .box {
+	background: #e4fff2;
 }
